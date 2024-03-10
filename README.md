@@ -1,7 +1,7 @@
 # Breakout
 Breakout multiplayer game
 
-![Screenshot](http://couchfriends.com/assets/games/6/screenshot-003.jpg)
+![Screenshot](https://couchfriends.com/src/images/games/breakout-browser-multiplayer.png)
 
 ## Install
 `npm install` & `grunt` or open the build/index.html in your browser
