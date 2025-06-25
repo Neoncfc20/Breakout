@@ -1,6 +1,6 @@
 # Breakout
-Breakout multiplayer game TEST COMMIT2
-
+Breakout multiplayer game TEST COMMIT
+#
 ![Screenshot](https://couchfriends.com/src/images/games/breakout-browser-multiplayer.png)
 
 ## Install
